@@ -1,21 +1,22 @@
 body{
 
-    background-color: rgb(128, 101, 101);
-    color:azure;
+    background-color: rgb(230, 221, 221);
+    color:rgb(8, 15, 15);
     
 }
 main{
   min-height: 71vw;
 }
 h1{
-    font-family:'Times New Roman', Times, serif;
-    background-color:brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:rgb(78, 66, 66);
+    color:white;
     font-size: xx-large;
     padding: auto;
     text-align: center;
 }
 h2{
-    font-family:'Times New Roman', Times, serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size:x-large;
     padding: 10px;
     
@@ -28,6 +29,10 @@ p{
     text-align: justify;
     padding:10px;
     margin: 10px;
+}
+
+.greeting {
+  text-align: center;
 }
 
 .container {
